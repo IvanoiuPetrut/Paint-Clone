@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Paint_in_retea.pozitie">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAgAAAAAAAAAAgAI=</HashCode>
+      <FileName>pozitie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_in_retea.figura">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAAAAAAAAAAgIAAIkAJAAAAAAQAAAAAAAAAAABAAA=</HashCode>
+      <FileName>figura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_in_retea.deseneazaText">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAEAAAAAYIAAAAAAAAAAAAAIAAIAIAAAAIAAAA=</HashCode>
+      <FileName>deseneazaText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_in_retea.elipsa">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>elipsa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_in_retea.eraser">
+    <Position X="3" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>eraser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_in_retea.fill">
+    <Position X="3" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_in_retea.hexagon">
+    <Position X="9" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>hexagon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_in_retea.rake">
+    <Position X="7" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAwAAAAAAAAAAAAAAAAAAAAAAABgAAAA=</HashCode>
+      <FileName>rake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_in_retea.triunghi">
+    <Position X="9" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>triunghi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

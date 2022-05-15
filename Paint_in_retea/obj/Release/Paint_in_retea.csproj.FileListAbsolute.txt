@@ -1,0 +1,23 @@
+P:\Facultate\OOP\proiect poo\Paint in retea\Paint_in_retea\bin\Release\Paint_in_retea.exe.config
+P:\Facultate\OOP\proiect poo\Paint in retea\Paint_in_retea\bin\Release\Paint_in_retea.exe
+P:\Facultate\OOP\proiect poo\Paint in retea\Paint_in_retea\bin\Release\Paint_in_retea.pdb
+P:\Facultate\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.fMain.resources
+P:\Facultate\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.fPaint.resources
+P:\Facultate\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.fText.resources
+P:\Facultate\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.Properties.Resources.resources
+P:\Facultate\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.csproj.GenerateResource.cache
+P:\Facultate\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.csproj.CoreCompileInputs.cache
+P:\Facultate\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.exe
+P:\Facultate\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.pdb
+P:\Facultate\AN 2\Sem 1\OOP\proiect poo\Paint in retea\Paint_in_retea\bin\Release\Paint_in_retea.exe.config
+P:\Facultate\AN 2\Sem 1\OOP\proiect poo\Paint in retea\Paint_in_retea\bin\Release\Paint_in_retea.exe
+P:\Facultate\AN 2\Sem 1\OOP\proiect poo\Paint in retea\Paint_in_retea\bin\Release\Paint_in_retea.pdb
+P:\Facultate\AN 2\Sem 1\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.csprojAssemblyReference.cache
+P:\Facultate\AN 2\Sem 1\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.fMain.resources
+P:\Facultate\AN 2\Sem 1\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.fPaint.resources
+P:\Facultate\AN 2\Sem 1\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.fText.resources
+P:\Facultate\AN 2\Sem 1\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.Properties.Resources.resources
+P:\Facultate\AN 2\Sem 1\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.csproj.GenerateResource.cache
+P:\Facultate\AN 2\Sem 1\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.csproj.CoreCompileInputs.cache
+P:\Facultate\AN 2\Sem 1\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.exe
+P:\Facultate\AN 2\Sem 1\OOP\proiect poo\Paint in retea\Paint_in_retea\obj\Release\Paint_in_retea.pdb
