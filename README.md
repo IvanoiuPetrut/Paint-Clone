@@ -3,7 +3,7 @@
 Paint application clone with the base functionality. Written in C# and putting an emphasis on OOP.
 
 <p align="center">
-  <img src="https://i.ibb.co/1J264mv/git-paint-1.png" alt="Photo of the presentation of the project" width="380"/>
+  <img src="https://i.imgur.com/czCLvT3.png" alt="Photo of the presentation of the project" width="380"/>
   <img src="https://i.ibb.co/kQwNGFH/git-paint-2.png" alt="Photo of the presentation of the project" width="380"/>
 </p>
 
