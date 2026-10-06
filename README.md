@@ -16,5 +16,5 @@ Paint application clone with the base functionality. Written in C# and putting a
 ## Technology
 
 - C#
-- .NET framework 4.5
+- .NET 10
 - The front-end is implemented using Windows Forms

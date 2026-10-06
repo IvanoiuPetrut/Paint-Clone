@@ -14,8 +14,7 @@ namespace Paint_in_retea
         [STAThread]
         static void Main()
         {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
+            ApplicationConfiguration.Initialize();
             Application.Run(new fPaint());
         }
     }

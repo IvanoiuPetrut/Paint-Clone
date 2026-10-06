@@ -5,8 +5,8 @@ using System.Data;
 using System.Diagnostics;
 using System.Drawing;
 using System.Drawing.Imaging;
+using System.IO;
 using System.Linq;
-using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -17,8 +17,6 @@ namespace Paint_in_retea
     public partial class fPaint : Form
     {
         Stopwatch sw = new Stopwatch();
-        static TcpClient client;
-        static NetworkStream stream;
 
         public Bitmap surface;
         public Graphics g;
@@ -46,6 +44,8 @@ namespace Paint_in_retea
         figura triunghi;
         figura hex;
         figura eraser;
+        static Image LoadIcon(string name) => Image.FromFile(Path.Combine(AppContext.BaseDirectory, name));
+
         public fPaint()
         {
                
@@ -93,11 +93,11 @@ namespace Paint_in_retea
             btRake.ForeColor = Color.White;
             btInsertText.ForeColor = Color.White;
 
-            btBrush.Image = Image.FromFile("brushOF.png");
-            btEraser.Image = Image.FromFile("eraserOF.png");
-            btTriangle.Image = Image.FromFile("triOF.png");
-            btHexagon.Image = Image.FromFile("hexOF.png");
-            btEclipse.Image = Image.FromFile("elipseOF.png");
+            btBrush.Image = LoadIcon("brushOF.png");
+            btEraser.Image = LoadIcon("eraserOF.png");
+            btTriangle.Image = LoadIcon("triOF.png");
+            btHexagon.Image = LoadIcon("hexOF.png");
+            btEclipse.Image = LoadIcon("elipseOF.png");
         }
 
         private void schimbaCuloareText(int r, int g, int b)
@@ -138,7 +138,7 @@ namespace Paint_in_retea
         {
             turnOfAll();
             brushOnOf = true;
-            btBrush.Image = Image.FromFile("brushON.png");
+            btBrush.Image = LoadIcon("brushON.png");
             btBrush.ForeColor = Color.FromArgb(108, 94, 221);
         }
 
@@ -207,7 +207,7 @@ namespace Paint_in_retea
         {
             turnOfAll();
             eraserOnOf = true;
-            btEraser.Image = Image.FromFile("eraserON.png");
+            btEraser.Image = LoadIcon("eraserON.png");
             btEraser.ForeColor = Color.FromArgb(108, 94, 221);
         }
 
@@ -296,7 +296,7 @@ namespace Paint_in_retea
         {
             turnOfAll();
             eclipseOnOf = true;
-            btEclipse.Image = Image.FromFile("elipseON.png");
+            btEclipse.Image = LoadIcon("elipseON.png");
             btEclipse.ForeColor = Color.FromArgb(108, 94, 221);
         }
 
@@ -342,7 +342,7 @@ namespace Paint_in_retea
         {
             turnOfAll();
             triangleOnOf = true;
-            btTriangle.Image = Image.FromFile("triON.png");
+            btTriangle.Image = LoadIcon("triON.png");
             btTriangle.ForeColor = Color.FromArgb(108, 94, 221);
         }
 
@@ -392,7 +392,7 @@ namespace Paint_in_retea
         {
             turnOfAll();
             HexOnOf = true;
-            btHexagon.Image = Image.FromFile("hexON.png");
+            btHexagon.Image = LoadIcon("hexON.png");
             btHexagon.ForeColor = Color.FromArgb(108, 94, 221);
         }
 
